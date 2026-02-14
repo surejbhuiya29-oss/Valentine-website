@@ -102,7 +102,6 @@ button{
 <img src="photo2.jpg">
 <img src="photo3.jpg">
 <img src="photo5.jpg">
-    <img src="photo4.jpg">
 </div>
 
 <!-- NOTEBOOK LETTER -->
